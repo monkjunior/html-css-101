@@ -1,0 +1,36 @@
+.box {
+    height: 150px;
+    margin: 64px;
+    border: 4px solid palevioletred;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+.big {
+    height: 70px;
+    width: 70px;
+    margin-top: -35px;
+    margin-left: -35px;
+    border: 4px solid palevioletred;
+    background: white;
+}
+
+.medium {
+    height: 50px;
+    width: 50px;
+    margin-top: 5px;
+    margin-left: -25px;
+    border: 4px solid palevioletred;
+    background: white;
+}
+
+.small {
+    height: 30px;
+    width: 30px;
+    margin-top: -105px;
+    margin-left: 45px;
+    border: 4px solid palevioletred;
+    background: white;
+}
