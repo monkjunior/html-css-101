@@ -5,32 +5,31 @@
 }
 
 .circle {
+    border: inherit;
     border-radius: 50%;
+    background: white;
 }
 
-.big {
+.big.circle {
     height: 70px;
     width: 70px;
+
     margin-top: -35px;
     margin-left: -35px;
-    border: 4px solid palevioletred;
-    background: white;
 }
 
-.medium {
+.medium.circle {
     height: 50px;
     width: 50px;
+
     margin-top: 5px;
     margin-left: -25px;
-    border: 4px solid palevioletred;
-    background: white;
 }
 
-.small {
+.small.circle {
     height: 30px;
     width: 30px;
+
     margin-top: -105px;
     margin-left: 45px;
-    border: 4px solid palevioletred;
-    background: white;
 }
